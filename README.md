@@ -34,4 +34,4 @@ As principais bibliotecas e ferramentas utilizadas neste repositório são:
 ##  Autor
 
 **Kaio Vitor**  
-📧 [Contato via GitHub](https://github.com/Kaio-0708)  
+ [Contato via GitHub](https://github.com/Kaio-0708)  
