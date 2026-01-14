@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 
-setwd("D:/analise_dados_R/Analise-de-Dados/analise_dados_R/dados")
+setwd("D:/analise_dados/Analise-de-Dados/analise_dados_R/dados")
 
 df_csv <- read_csv("sim_salvador_2023_processado.csv")
 
@@ -94,4 +94,4 @@ resultado <- df_csv %>%
   slice(1)
 print(resultado)
 
-write.csv(df_csv, "D:/analise_dados_R/Analise-de-Dados/analise_dados_R/dados/sim_salvador_2023_final.csv", row.names = FALSE)
+write.csv(df_csv, "D:/analise_dados/Analise-de-Dados/analise_dados_R/dados/sim_salvador_2023_final.csv", row.names = FALSE)
